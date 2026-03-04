@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict fnH8Gt9YdDKEmcjZJEkVq4YDs1Q48FaDhRCGukZZj8wmawt4nTCWzR6xuk3Fff0
+\restrict skZFezuJccAnw4RgoCceaFFdlEw0NrOFwtVaBiSBQFj3rxV7liLhJfKcmEb1K9y
 
 -- Dumped from database version 15.15 (Ubuntu 15.15-1.pgdg24.04+1)
 -- Dumped by pg_dump version 15.15 (Ubuntu 15.15-1.pgdg24.04+1)
@@ -83,5 +83,5 @@ ALTER TABLE ONLY public.books_read
 -- PostgreSQL database dump complete
 --
 
-\unrestrict fnH8Gt9YdDKEmcjZJEkVq4YDs1Q48FaDhRCGukZZj8wmawt4nTCWzR6xuk3Fff0
+\unrestrict skZFezuJccAnw4RgoCceaFFdlEw0NrOFwtVaBiSBQFj3rxV7liLhJfKcmEb1K9y
 
